@@ -5,6 +5,6 @@
 *.log
 *.pdb
 *.tlog
-Debug\*
-Release\*
-.vs\*
+*.vs
+*.iobj
+*.ipdb
