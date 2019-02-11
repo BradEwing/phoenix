@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Phoenix", "Phoenix.vcxproj", "{B5654594-40D9-4976-851A-9F387AD4DED7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x86 = Debug|x86
+		Release|Win32 = Release|Win32
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5654594-40D9-4976-851A-9F387AD4DED7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B5654594-40D9-4976-851A-9F387AD4DED7}.Debug|Win32.Build.0 = Debug|Win32
+		{B5654594-40D9-4976-851A-9F387AD4DED7}.Debug|x86.ActiveCfg = Debug|Win32
+		{B5654594-40D9-4976-851A-9F387AD4DED7}.Debug|x86.Build.0 = Debug|Win32
+		{B5654594-40D9-4976-851A-9F387AD4DED7}.Release|Win32.ActiveCfg = Release|Win32
+		{B5654594-40D9-4976-851A-9F387AD4DED7}.Release|Win32.Build.0 = Release|Win32
+		{B5654594-40D9-4976-851A-9F387AD4DED7}.Release|x86.ActiveCfg = Release|Win32
+		{B5654594-40D9-4976-851A-9F387AD4DED7}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC8B9DD0-27FC-4E6F-AE83-840026E45FD5}
+	EndGlobalSection
+EndGlobal
